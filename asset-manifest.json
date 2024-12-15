@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bugblaster/static/css/main.c2c1f00d.css",
+    "main.js": "/bugblaster/static/js/main.b0f8cfe2.js",
+    "static/js/453.959bcbef.chunk.js": "/bugblaster/static/js/453.959bcbef.chunk.js",
+    "index.html": "/bugblaster/index.html",
+    "main.c2c1f00d.css.map": "/bugblaster/static/css/main.c2c1f00d.css.map",
+    "main.b0f8cfe2.js.map": "/bugblaster/static/js/main.b0f8cfe2.js.map",
+    "453.959bcbef.chunk.js.map": "/bugblaster/static/js/453.959bcbef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2c1f00d.css",
+    "static/js/main.b0f8cfe2.js"
+  ]
+}
